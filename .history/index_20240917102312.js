@@ -3,6 +3,6 @@
  */
 
 import { AppRegistry } from 'react-native';
-import App from './splash_Screen';
+import App from './App';
 
 AppRegistry.registerComponent('main', () => App);
