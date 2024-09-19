@@ -4,7 +4,7 @@
 
 import 'react-native';
 import React from 'react';
-import CoffeeLandImage from '../src/splash_Screen';
+import CoffeeLandImage from './splash_Screen';
 
 // Note: import explicitly to use the types shipped with jest.
 import {it} from '@jest/globals';

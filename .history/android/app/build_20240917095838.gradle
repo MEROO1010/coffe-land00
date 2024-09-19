@@ -116,6 +116,4 @@ dependencies {
     } else {
         implementation jscFlavor
     }
-
-    implementation 'com.zoontek:react-native-splash-screen:3.3.0'
 }

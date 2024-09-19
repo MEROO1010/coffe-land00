@@ -4,7 +4,7 @@
 
 import 'react-native';
 import React from 'react';
-import CoffeeLandImage from '../src/splash_Screen';
+import App from '../src/splash_Screen';
 
 // Note: import explicitly to use the types shipped with jest.
 import {it} from '@jest/globals';
@@ -13,5 +13,5 @@ import {it} from '@jest/globals';
 import renderer from 'react-test-renderer';
 
 it('renders correctly', () => {
-  renderer.create(<CoffeeLandImage />);
+  renderer.create(<App />);
 });

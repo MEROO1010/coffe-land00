@@ -15,7 +15,7 @@
     "expo": "^51.0.32",
     "react": "latest",
     "react-dom": "latest",
-    "react-native": "0.76.0-rc.1",
+    "react-native": "^0.74.5",
     "react-native-firebase": "^5.6.0",
     "react-native-paper": "^5.12.5",
     "react-native-splash-screen": "^3.3.0",
